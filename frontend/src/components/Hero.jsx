@@ -46,8 +46,8 @@ const Hero = () => {
               Contact Me
             </a>
             <a
-              href="/Resume_Vishal_prajapati.pdf"
-              download
+              href="/MyPortfolio/Resume_Vishal_prajapati.pdf"
+              download="Resume_Vishal_prajapati.pdf"
               className="rounded-lg border border-slate-600 px-6 py-3 font-semibold transition hover:border-cyan-400 hover:text-cyan-300"
             >
               Download Resume ↓
